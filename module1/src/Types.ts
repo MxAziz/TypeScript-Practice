@@ -54,3 +54,7 @@ let fruits: string[] = ["banana", "apple", "orange"];
 
 const [a, b, c] = fruits;
 console.log(a, b, c);
+
+
+// tuple
+let userTuple: [number, string, boolean] = [1, "John", true];

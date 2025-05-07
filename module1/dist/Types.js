@@ -36,3 +36,5 @@ let numbers = [1, 2, 3, 4, 5];
 let fruits = ["banana", "apple", "orange"];
 const [a, b, c] = fruits;
 console.log(a, b, c);
+// tuple
+let userTuple = [1, "John", true];
